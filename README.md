@@ -1,0 +1,1 @@
+A web application. The client-side renders movies from a third-party API and involves functionalities such as 'movie search by title', 'showing search results' and 'showing extended movie information'.
