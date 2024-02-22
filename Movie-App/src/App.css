@@ -1,7 +1,14 @@
 body {
-	background: #141414;
+	/* background: #141414; */
+background: linear-gradient(
+	rgba(4, 25, 41, 1),
+	rgba(4, 25, 41, 1)
+	),
+url(./components/Images/bImage.png);
 	color: #ffffff;
+	background-size: cover;
 }
+
 
 .movie-app > .row {
 	overflow-x: auto;
